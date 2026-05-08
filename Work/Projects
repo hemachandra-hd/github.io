@@ -1,0 +1,5 @@
+Project Name,Description,Key Tech
+AML & Fraud Detection,XGBoost classification model using SMOTE to detect fraud in 6.3M mobile money transactions.,"Python, XGBoost, SMOTE"
+Gen-AI Sentiment Analysis,"A fine-tuned GPT-4o model designed to bridge the ""generalist bias"" in financial sentiment reporting.","OpenAI API, Python, Streamlit"
+Banking Customer Churn,Comparative analysis using Logistic Regression and Random Forest to identify at-risk clients.,"Scikit-learn, Random Forest"
+Agile Metrics Dashboard,Professional Scrum dashboards tracking ART team velocity and burn-down accuracy.,"Tableau/PowerBI, SQL"
