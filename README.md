@@ -1,7 +1,5 @@
-**About Me**
-
-
-I am Hemachandra HD, a Vice President and Senior Scrum Master at Truist Bank with over 20 years of experience in the IT industry. Currently, I am pursuing a Master of Science in Data Science at Bellevue University, specializing in Generative AI and Financial Analytics.
+## About Me
+I am Hemachandra HD, a Vice President and Agile Delivery Lead at Truist Bank with over 20 years of experience in the IT industry. Currently, I am pursuing a Master of Science in Data Science at Bellevue University, specializing in Generative AI and Financial Analytics.
 
 My portfolio demonstrates my ability to solve complex business problems in the banking and finance sectors—ranging from AML Transaction Fraud Detection to Financial Sentiment Analysis—using state-of-the-art machine learning and Generative AI frameworks
 
@@ -24,3 +22,13 @@ My portfolio demonstrates my ability to solve complex business problems in the b
 ### Agile Metrics Dashboard
 * **Description**: A professional dashboard covering Agile Release Train (ART) metrics to track sprint velocity, burn-down accuracy, and team efficiency.
 * **Technologies**: Tableau/PowerBI, SQL.
+
+
+## Contact & Professional Links
+
+I am always open to discussing data science, Gen AI and ML opportunities, agile leadership, or technical collaborations. Feel free to reach out through any of the platforms below:
+
+* **Email**: [hemachandra.hd@gmail.com]
+* **LinkedIn**: [www.linkedin.com/in/hemachandrahd]
+* **GitHub**: [https://github.com/hemachandra-hd](https://github.com/hemachandra-hd)
+* **Location**: Atlanta, Georgia
